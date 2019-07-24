@@ -288,18 +288,18 @@ form img{
 }
 
 
-.social-media i:hover{
+/*.social-media i:hover{
     color: lightskyblue;
-}
+}*/
 
-.fa-facebook{
+.fa-facebook:hover{
     color: #3B5999;
 }
 
-.fa-twitter{
+.fa-twitter:hover{
     color: #1DA1F3;
 }
 
-.fa-instagram{
+.fa-instagram:hover{
     color: #EF6943;
 }
